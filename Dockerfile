@@ -88,5 +88,5 @@ RUN chmod +x /workspace/start.sh && sed -i 's/\r$//' /workspace/start.sh
 # 8080 - VSCode (code-server)
 EXPOSE 8188 8888 8080
 
-# Set the startup command
-CMD ["/workspace/start.sh"]
+# Set the startup command (explicit bash so builtins like wait work in exec form)
+CMD ["/bin/bash", "/workspace/start.sh"]
