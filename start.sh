@@ -17,3 +17,6 @@ code-server --bind-addr 0.0.0.0:8080 \
   --user-data-dir /workspace/vscode-data \
   --auth none \
   /workspace
+
+# Keep container alive until all background services exit
+wait

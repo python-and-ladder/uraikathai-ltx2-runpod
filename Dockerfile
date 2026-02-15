@@ -80,7 +80,7 @@ RUN mkdir -p /workspace/ComfyUI/models/checkpoints \
 
 # Copy startup script
 COPY start.sh /workspace/start.sh
-RUN chmod +x /workspace/start.sh
+RUN chmod +x /workspace/start.sh && sed -i 's/\r$//' /workspace/start.sh
 
 # Expose ports
 # 8188 - ComfyUI

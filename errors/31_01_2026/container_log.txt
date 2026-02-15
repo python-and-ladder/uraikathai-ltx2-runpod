@@ -1,0 +1,1890 @@
+2026-01-31T07:32:52.761873739Z ==========
+2026-01-31T07:32:52.761898119Z == CUDA ==
+2026-01-31T07:32:52.761927152Z ==========
+2026-01-31T07:32:52.768233289Z CUDA Version 12.1.0
+2026-01-31T07:32:52.770485530Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:32:52.770524584Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:32:52.770529574Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:32:52.770534210Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:32:52.770544203Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:32:52.782228575Z *************************
+2026-01-31T07:32:52.782264224Z ** DEPRECATION NOTICE! **
+2026-01-31T07:32:52.782407293Z *************************
+2026-01-31T07:32:52.782444283Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:32:52.782469183Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:32:52.783700228Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:33:03.912791004Z ==========
+2026-01-31T07:33:03.912798404Z == CUDA ==
+2026-01-31T07:33:03.912934758Z ==========
+2026-01-31T07:33:03.916833585Z CUDA Version 12.1.0
+2026-01-31T07:33:03.917916230Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:33:03.918693323Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:33:03.918699079Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:33:03.918704206Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:33:03.918714243Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:33:03.927011148Z *************************
+2026-01-31T07:33:03.927029557Z ** DEPRECATION NOTICE! **
+2026-01-31T07:33:03.927136154Z *************************
+2026-01-31T07:33:03.927166035Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:33:03.927169860Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:33:03.927846041Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:33:20.685583913Z ==========
+2026-01-31T07:33:20.685592181Z == CUDA ==
+2026-01-31T07:33:20.685599616Z ==========
+2026-01-31T07:33:20.691103083Z CUDA Version 12.1.0
+2026-01-31T07:33:20.693226164Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:33:20.694004028Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:33:20.694007332Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:33:20.694010658Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:33:20.694016197Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:33:20.713073631Z *************************
+2026-01-31T07:33:20.713125867Z ** DEPRECATION NOTICE! **
+2026-01-31T07:33:20.713235717Z *************************
+2026-01-31T07:33:20.713258223Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:33:20.713261291Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:33:20.714370545Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:33:37.363562860Z ==========
+2026-01-31T07:33:37.363569743Z == CUDA ==
+2026-01-31T07:33:37.363591165Z ==========
+2026-01-31T07:33:37.368728674Z CUDA Version 12.1.0
+2026-01-31T07:33:37.371339178Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:33:37.372713726Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:33:37.372718346Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:33:37.372722282Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:33:37.372729306Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:33:37.385860954Z *************************
+2026-01-31T07:33:37.385893391Z ** DEPRECATION NOTICE! **
+2026-01-31T07:33:37.386052407Z *************************
+2026-01-31T07:33:37.386059005Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:33:37.386061090Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:33:37.387006822Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:33:54.215488125Z ==========
+2026-01-31T07:33:54.215537452Z == CUDA ==
+2026-01-31T07:33:54.215550073Z ==========
+2026-01-31T07:33:54.219433918Z CUDA Version 12.1.0
+2026-01-31T07:33:54.220502289Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:33:54.221265303Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:33:54.221267209Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:33:54.221268697Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:33:54.221271815Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:33:54.232842562Z *************************
+2026-01-31T07:33:54.232858099Z ** DEPRECATION NOTICE! **
+2026-01-31T07:33:54.232993368Z *************************
+2026-01-31T07:33:54.233014494Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:33:54.233016526Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:33:54.234056350Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:34:10.947707433Z ==========
+2026-01-31T07:34:10.947714432Z == CUDA ==
+2026-01-31T07:34:10.947719274Z ==========
+2026-01-31T07:34:10.952934906Z CUDA Version 12.1.0
+2026-01-31T07:34:10.954059446Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:34:10.954884506Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:34:10.954890411Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:34:10.954895604Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:34:10.954905713Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:34:10.968066515Z *************************
+2026-01-31T07:34:10.968093806Z ** DEPRECATION NOTICE! **
+2026-01-31T07:34:10.968257443Z *************************
+2026-01-31T07:34:10.968275793Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:34:10.968286646Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:34:10.969542451Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:34:27.777983008Z ==========
+2026-01-31T07:34:27.777986269Z == CUDA ==
+2026-01-31T07:34:27.778014913Z ==========
+2026-01-31T07:34:27.782989057Z CUDA Version 12.1.0
+2026-01-31T07:34:27.784298039Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:34:27.785132420Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:34:27.785135592Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:34:27.785138087Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:34:27.785143009Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:34:27.795993810Z *************************
+2026-01-31T07:34:27.796001075Z ** DEPRECATION NOTICE! **
+2026-01-31T07:34:27.796146300Z *************************
+2026-01-31T07:34:27.796184649Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:34:27.796196632Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:34:27.797117808Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:34:44.611430304Z ==========
+2026-01-31T07:34:44.611440783Z == CUDA ==
+2026-01-31T07:34:44.611442807Z ==========
+2026-01-31T07:34:44.617394423Z CUDA Version 12.1.0
+2026-01-31T07:34:44.619426364Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:34:44.620303001Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:34:44.620310165Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:34:44.620315298Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:34:44.620325561Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:34:44.634518414Z *************************
+2026-01-31T07:34:44.634525400Z ** DEPRECATION NOTICE! **
+2026-01-31T07:34:44.634562924Z *************************
+2026-01-31T07:34:44.634598912Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:34:44.634607963Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:34:44.637058506Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:35:01.329886071Z ==========
+2026-01-31T07:35:01.329888150Z == CUDA ==
+2026-01-31T07:35:01.329892301Z ==========
+2026-01-31T07:35:01.333944594Z CUDA Version 12.1.0
+2026-01-31T07:35:01.336288081Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:35:01.337904964Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:35:01.337907273Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:35:01.337909445Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:35:01.337913648Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:35:01.348119772Z *************************
+2026-01-31T07:35:01.348155301Z ** DEPRECATION NOTICE! **
+2026-01-31T07:35:01.348342372Z *************************
+2026-01-31T07:35:01.348351357Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:35:01.348354526Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:35:01.349073231Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:35:18.071223585Z ==========
+2026-01-31T07:35:18.071245976Z == CUDA ==
+2026-01-31T07:35:18.071293425Z ==========
+2026-01-31T07:35:18.075841416Z CUDA Version 12.1.0
+2026-01-31T07:35:18.077237454Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:35:18.078192209Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:35:18.078194617Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:35:18.078196350Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:35:18.078200100Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:35:18.088793140Z *************************
+2026-01-31T07:35:18.088822977Z ** DEPRECATION NOTICE! **
+2026-01-31T07:35:18.088955794Z *************************
+2026-01-31T07:35:18.088959317Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:35:18.088965053Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:35:18.090604231Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:35:34.766931677Z ==========
+2026-01-31T07:35:34.766949321Z == CUDA ==
+2026-01-31T07:35:34.767004854Z ==========
+2026-01-31T07:35:34.770833778Z CUDA Version 12.1.0
+2026-01-31T07:35:34.771965030Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:35:34.772755043Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:35:34.772759140Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:35:34.772763101Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:35:34.772770493Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:35:34.782687164Z *************************
+2026-01-31T07:35:34.782705164Z ** DEPRECATION NOTICE! **
+2026-01-31T07:35:34.782868873Z *************************
+2026-01-31T07:35:34.782878593Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:35:34.782881135Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:35:34.783993654Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:35:51.482167414Z ==========
+2026-01-31T07:35:51.482170954Z == CUDA ==
+2026-01-31T07:35:51.482178519Z ==========
+2026-01-31T07:35:51.486469645Z CUDA Version 12.1.0
+2026-01-31T07:35:51.487560785Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:35:51.488398563Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:35:51.488401509Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:35:51.488403871Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:35:51.488408381Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:35:51.499390799Z *************************
+2026-01-31T07:35:51.499401467Z ** DEPRECATION NOTICE! **
+2026-01-31T07:35:51.499548787Z *************************
+2026-01-31T07:35:51.499591897Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:35:51.499619142Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:35:51.509013095Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:36:08.259452455Z ==========
+2026-01-31T07:36:08.259455674Z == CUDA ==
+2026-01-31T07:36:08.259457735Z ==========
+2026-01-31T07:36:08.278216321Z CUDA Version 12.1.0
+2026-01-31T07:36:08.280064852Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:36:08.281569663Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:36:08.281595931Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:36:08.281600659Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:36:08.281609179Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:36:08.291236633Z *************************
+2026-01-31T07:36:08.291259229Z ** DEPRECATION NOTICE! **
+2026-01-31T07:36:08.291413480Z *************************
+2026-01-31T07:36:08.291437054Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:36:08.291447870Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:36:08.292298764Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:36:24.976533332Z ==========
+2026-01-31T07:36:24.976635527Z == CUDA ==
+2026-01-31T07:36:24.976673169Z ==========
+2026-01-31T07:36:24.981124443Z CUDA Version 12.1.0
+2026-01-31T07:36:24.982545934Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:36:24.983392275Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:36:24.983394758Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:36:24.983396635Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:36:24.983399655Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:36:24.993979452Z *************************
+2026-01-31T07:36:24.993999219Z ** DEPRECATION NOTICE! **
+2026-01-31T07:36:24.994223464Z *************************
+2026-01-31T07:36:24.994243340Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:36:24.994245157Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:36:24.995514615Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:36:41.718535738Z ==========
+2026-01-31T07:36:41.718584707Z == CUDA ==
+2026-01-31T07:36:41.718635298Z ==========
+2026-01-31T07:36:41.723352462Z CUDA Version 12.1.0
+2026-01-31T07:36:41.724603069Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:36:41.725632456Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:36:41.725643133Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:36:41.725652348Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:36:41.725697010Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:36:41.736369339Z *************************
+2026-01-31T07:36:41.736416631Z ** DEPRECATION NOTICE! **
+2026-01-31T07:36:41.736552180Z *************************
+2026-01-31T07:36:41.736619599Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:36:41.736630486Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:36:41.737552159Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:36:58.495385259Z ==========
+2026-01-31T07:36:58.495449396Z == CUDA ==
+2026-01-31T07:36:58.495463718Z ==========
+2026-01-31T07:36:58.499438034Z CUDA Version 12.1.0
+2026-01-31T07:36:58.500578512Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:36:58.502041394Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:36:58.502043303Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:36:58.502045133Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:36:58.502048913Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:36:58.519483640Z *************************
+2026-01-31T07:36:58.519499781Z ** DEPRECATION NOTICE! **
+2026-01-31T07:36:58.519714340Z *************************
+2026-01-31T07:36:58.519738147Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:36:58.519743330Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:36:58.520828100Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:37:15.200837065Z ==========
+2026-01-31T07:37:15.200844946Z == CUDA ==
+2026-01-31T07:37:15.200870272Z ==========
+2026-01-31T07:37:15.211085884Z CUDA Version 12.1.0
+2026-01-31T07:37:15.213507322Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:37:15.214615571Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:37:15.214620011Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:37:15.214624394Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:37:15.214632121Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:37:15.226107504Z *************************
+2026-01-31T07:37:15.226139418Z ** DEPRECATION NOTICE! **
+2026-01-31T07:37:15.226336393Z *************************
+2026-01-31T07:37:15.226375356Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:37:15.226379746Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:37:15.227376925Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:37:31.968520011Z ==========
+2026-01-31T07:37:31.968548638Z == CUDA ==
+2026-01-31T07:37:31.968566366Z ==========
+2026-01-31T07:37:31.973086870Z CUDA Version 12.1.0
+2026-01-31T07:37:31.974181614Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:37:31.975073828Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:37:31.975075927Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:37:31.975087019Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:37:31.975091448Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:37:31.988685584Z *************************
+2026-01-31T07:37:31.988700397Z ** DEPRECATION NOTICE! **
+2026-01-31T07:37:31.988832628Z *************************
+2026-01-31T07:37:31.988850928Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:37:31.988853121Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:37:31.990464640Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:37:48.791636026Z ==========
+2026-01-31T07:37:48.791641815Z == CUDA ==
+2026-01-31T07:37:48.791643683Z ==========
+2026-01-31T07:37:48.796209439Z CUDA Version 12.1.0
+2026-01-31T07:37:48.797404649Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:37:48.799270877Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:37:48.799275400Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:37:48.799278756Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:37:48.799285374Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:37:48.838612177Z *************************
+2026-01-31T07:37:48.838686301Z ** DEPRECATION NOTICE! **
+2026-01-31T07:37:48.838877007Z *************************
+2026-01-31T07:37:48.838908962Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:37:48.838912890Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:37:48.840431715Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:38:05.564768389Z ==========
+2026-01-31T07:38:05.564776475Z == CUDA ==
+2026-01-31T07:38:05.564781512Z ==========
+2026-01-31T07:38:05.569804562Z CUDA Version 12.1.0
+2026-01-31T07:38:05.571002861Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:38:05.572196623Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:38:05.572199913Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:38:05.572201790Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:38:05.572205230Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:38:05.587289432Z *************************
+2026-01-31T07:38:05.587291703Z ** DEPRECATION NOTICE! **
+2026-01-31T07:38:05.587438736Z *************************
+2026-01-31T07:38:05.587495216Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:38:05.587505647Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:38:05.589181529Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:38:22.400003468Z ==========
+2026-01-31T07:38:22.400022620Z == CUDA ==
+2026-01-31T07:38:22.400041918Z ==========
+2026-01-31T07:38:22.412372710Z CUDA Version 12.1.0
+2026-01-31T07:38:22.413395677Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:38:22.414170411Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:38:22.414188905Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:38:22.414192491Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:38:22.414199022Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:38:22.426692835Z *************************
+2026-01-31T07:38:22.426728168Z ** DEPRECATION NOTICE! **
+2026-01-31T07:38:22.426948166Z *************************
+2026-01-31T07:38:22.426979043Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:38:22.426988676Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:38:22.428104065Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:38:39.083072023Z ==========
+2026-01-31T07:38:39.083075044Z == CUDA ==
+2026-01-31T07:38:39.083079259Z ==========
+2026-01-31T07:38:39.087355641Z CUDA Version 12.1.0
+2026-01-31T07:38:39.088463919Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:38:39.089231641Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:38:39.089238264Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:38:39.089243390Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:38:39.089254690Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:38:39.097891624Z *************************
+2026-01-31T07:38:39.097906469Z ** DEPRECATION NOTICE! **
+2026-01-31T07:38:39.098050890Z *************************
+2026-01-31T07:38:39.098070608Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:38:39.098076817Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:38:39.098868880Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:38:55.871628662Z ==========
+2026-01-31T07:38:55.871632304Z == CUDA ==
+2026-01-31T07:38:55.871763984Z ==========
+2026-01-31T07:38:55.877757724Z CUDA Version 12.1.0
+2026-01-31T07:38:55.878938020Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:38:55.879978370Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:38:55.879981895Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:38:55.879985359Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:38:55.879990509Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:38:55.895083300Z *************************
+2026-01-31T07:38:55.895087152Z ** DEPRECATION NOTICE! **
+2026-01-31T07:38:55.895148124Z *************************
+2026-01-31T07:38:55.895174749Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:38:55.895177618Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:38:55.896680227Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:39:12.679878058Z ==========
+2026-01-31T07:39:12.679893744Z == CUDA ==
+2026-01-31T07:39:12.679973420Z ==========
+2026-01-31T07:39:12.683718677Z CUDA Version 12.1.0
+2026-01-31T07:39:12.684882752Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:39:12.685935810Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:39:12.685943586Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:39:12.685947744Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:39:12.685955430Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:39:12.696005825Z *************************
+2026-01-31T07:39:12.696031681Z ** DEPRECATION NOTICE! **
+2026-01-31T07:39:12.696169354Z *************************
+2026-01-31T07:39:12.696204469Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:39:12.696214920Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:39:12.697288175Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:39:29.478897397Z ==========
+2026-01-31T07:39:29.478925495Z == CUDA ==
+2026-01-31T07:39:29.478967128Z ==========
+2026-01-31T07:39:29.484430792Z CUDA Version 12.1.0
+2026-01-31T07:39:29.485467887Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:39:29.486255669Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:39:29.486257366Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:39:29.486259228Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:39:29.486262640Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:39:29.496526941Z *************************
+2026-01-31T07:39:29.496553246Z ** DEPRECATION NOTICE! **
+2026-01-31T07:39:29.496690263Z *************************
+2026-01-31T07:39:29.496726584Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:39:29.496732737Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:39:29.497955555Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:39:46.344677742Z ==========
+2026-01-31T07:39:46.344693837Z == CUDA ==
+2026-01-31T07:39:46.344752848Z ==========
+2026-01-31T07:39:46.348698143Z CUDA Version 12.1.0
+2026-01-31T07:39:46.349731959Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:39:46.350515886Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:39:46.350523491Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:39:46.350528691Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:39:46.350538718Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:39:46.360665025Z *************************
+2026-01-31T07:39:46.360705184Z ** DEPRECATION NOTICE! **
+2026-01-31T07:39:46.360820339Z *************************
+2026-01-31T07:39:46.360845433Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:39:46.360849321Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:39:46.361679814Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:40:03.079618195Z ==========
+2026-01-31T07:40:03.079637506Z == CUDA ==
+2026-01-31T07:40:03.079691223Z ==========
+2026-01-31T07:40:03.083639111Z CUDA Version 12.1.0
+2026-01-31T07:40:03.084805830Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:40:03.085917570Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:40:03.085924861Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:40:03.085929624Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:40:03.085939640Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:40:03.097011141Z *************************
+2026-01-31T07:40:03.097041643Z ** DEPRECATION NOTICE! **
+2026-01-31T07:40:03.097231910Z *************************
+2026-01-31T07:40:03.097265183Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:40:03.097268128Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:40:03.098376311Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:40:19.874214568Z ==========
+2026-01-31T07:40:19.874250157Z == CUDA ==
+2026-01-31T07:40:19.874299286Z ==========
+2026-01-31T07:40:19.878105786Z CUDA Version 12.1.0
+2026-01-31T07:40:19.879167968Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:40:19.879976751Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:40:19.879979786Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:40:19.879983824Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:40:19.879989301Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:40:19.890321241Z *************************
+2026-01-31T07:40:19.890338766Z ** DEPRECATION NOTICE! **
+2026-01-31T07:40:19.890500398Z *************************
+2026-01-31T07:40:19.890527114Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:40:19.890538119Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:40:19.891731750Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:40:36.560596407Z ==========
+2026-01-31T07:40:36.560613520Z == CUDA ==
+2026-01-31T07:40:36.560619184Z ==========
+2026-01-31T07:40:36.565658570Z CUDA Version 12.1.0
+2026-01-31T07:40:36.566803181Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:40:36.567692576Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:40:36.567696976Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:40:36.567699732Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:40:36.567704263Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:40:36.577374765Z *************************
+2026-01-31T07:40:36.577410232Z ** DEPRECATION NOTICE! **
+2026-01-31T07:40:36.577543242Z *************************
+2026-01-31T07:40:36.577546428Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:40:36.577549473Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:40:36.578351591Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:40:53.368752798Z ==========
+2026-01-31T07:40:53.368760438Z == CUDA ==
+2026-01-31T07:40:53.368765338Z ==========
+2026-01-31T07:40:53.373505518Z CUDA Version 12.1.0
+2026-01-31T07:40:53.374885840Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:40:53.375940198Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:40:53.375944212Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:40:53.375946724Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:40:53.375951251Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:40:53.388323441Z *************************
+2026-01-31T07:40:53.388350041Z ** DEPRECATION NOTICE! **
+2026-01-31T07:40:53.388487541Z *************************
+2026-01-31T07:40:53.388563087Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:40:53.388588327Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:40:53.389380703Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:41:10.170659383Z ==========
+2026-01-31T07:41:10.170666500Z == CUDA ==
+2026-01-31T07:41:10.170675107Z ==========
+2026-01-31T07:41:10.175742281Z CUDA Version 12.1.0
+2026-01-31T07:41:10.177347955Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:41:10.178795553Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:41:10.178797637Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:41:10.178799492Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:41:10.178802776Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:41:10.190033731Z *************************
+2026-01-31T07:41:10.190064571Z ** DEPRECATION NOTICE! **
+2026-01-31T07:41:10.190265724Z *************************
+2026-01-31T07:41:10.190314461Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:41:10.190321269Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:41:10.191480105Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:41:26.849138764Z ==========
+2026-01-31T07:41:26.849143924Z == CUDA ==
+2026-01-31T07:41:26.849151681Z ==========
+2026-01-31T07:41:26.855014289Z CUDA Version 12.1.0
+2026-01-31T07:41:26.856789814Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:41:26.858133609Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:41:26.858136634Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:41:26.858139055Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:41:26.858143749Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:41:26.870543512Z *************************
+2026-01-31T07:41:26.870560678Z ** DEPRECATION NOTICE! **
+2026-01-31T07:41:26.870715657Z *************************
+2026-01-31T07:41:26.870750118Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:41:26.870758442Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:41:26.871647872Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:41:43.585952252Z ==========
+2026-01-31T07:41:43.585959098Z == CUDA ==
+2026-01-31T07:41:43.586065761Z ==========
+2026-01-31T07:41:43.590548301Z CUDA Version 12.1.0
+2026-01-31T07:41:43.591634173Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:41:43.592413788Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:41:43.592415847Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:41:43.592417698Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:41:43.592421012Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:41:43.609986138Z *************************
+2026-01-31T07:41:43.609998343Z ** DEPRECATION NOTICE! **
+2026-01-31T07:41:43.610134098Z *************************
+2026-01-31T07:41:43.610156250Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:41:43.610163658Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:41:43.611126001Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:42:00.422487048Z ==========
+2026-01-31T07:42:00.422493862Z == CUDA ==
+2026-01-31T07:42:00.422499349Z ==========
+2026-01-31T07:42:00.428077571Z CUDA Version 12.1.0
+2026-01-31T07:42:00.430255809Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:42:00.432636898Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:42:00.432639513Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:42:00.432641461Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:42:00.432644861Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:42:00.444328412Z *************************
+2026-01-31T07:42:00.444359979Z ** DEPRECATION NOTICE! **
+2026-01-31T07:42:00.444496078Z *************************
+2026-01-31T07:42:00.444553496Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:42:00.444598147Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:42:00.445956832Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:42:17.160885404Z ==========
+2026-01-31T07:42:17.160945181Z == CUDA ==
+2026-01-31T07:42:17.160971501Z ==========
+2026-01-31T07:42:17.165292916Z CUDA Version 12.1.0
+2026-01-31T07:42:17.166293572Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:42:17.167251074Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:42:17.167254998Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:42:17.167258460Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:42:17.167264918Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:42:17.176917561Z *************************
+2026-01-31T07:42:17.176925474Z ** DEPRECATION NOTICE! **
+2026-01-31T07:42:17.177077103Z *************************
+2026-01-31T07:42:17.177110147Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:42:17.177137293Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:42:17.177980287Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:42:33.928779617Z ==========
+2026-01-31T07:42:33.928784421Z == CUDA ==
+2026-01-31T07:42:33.928787666Z ==========
+2026-01-31T07:42:33.934909918Z CUDA Version 12.1.0
+2026-01-31T07:42:33.936459031Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:42:33.937389424Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:42:33.937391690Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:42:33.937393476Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:42:33.937396723Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:42:33.948079328Z *************************
+2026-01-31T07:42:33.948137222Z ** DEPRECATION NOTICE! **
+2026-01-31T07:42:33.948244984Z *************************
+2026-01-31T07:42:33.948286669Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:42:33.948290393Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:42:33.949215048Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:42:50.721727469Z ==========
+2026-01-31T07:42:50.721730052Z == CUDA ==
+2026-01-31T07:42:50.721734005Z ==========
+2026-01-31T07:42:50.725054006Z CUDA Version 12.1.0
+2026-01-31T07:42:50.727126513Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:42:50.728094388Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:42:50.728096544Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:42:50.728098625Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:42:50.728101922Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:42:50.736882134Z *************************
+2026-01-31T07:42:50.736889754Z ** DEPRECATION NOTICE! **
+2026-01-31T07:42:50.737010944Z *************************
+2026-01-31T07:42:50.737043199Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:42:50.737048529Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:42:50.737739777Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:43:07.473258581Z ==========
+2026-01-31T07:43:07.473296712Z == CUDA ==
+2026-01-31T07:43:07.473403346Z ==========
+2026-01-31T07:43:07.478613591Z CUDA Version 12.1.0
+2026-01-31T07:43:07.479803134Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:43:07.480630610Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:43:07.480634185Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:43:07.480637182Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:43:07.480642689Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:43:07.492026642Z *************************
+2026-01-31T07:43:07.492050904Z ** DEPRECATION NOTICE! **
+2026-01-31T07:43:07.492134766Z *************************
+2026-01-31T07:43:07.492167269Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:43:07.492175404Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:43:07.493119620Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:43:24.312292195Z ==========
+2026-01-31T07:43:24.312300415Z == CUDA ==
+2026-01-31T07:43:24.312350079Z ==========
+2026-01-31T07:43:24.317697729Z CUDA Version 12.1.0
+2026-01-31T07:43:24.318840163Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:43:24.319968082Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:43:24.319974654Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:43:24.319980209Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:43:24.319992394Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:43:24.330757182Z *************************
+2026-01-31T07:43:24.330851176Z ** DEPRECATION NOTICE! **
+2026-01-31T07:43:24.330879669Z *************************
+2026-01-31T07:43:24.330921561Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:43:24.330938391Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:43:24.331864645Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:43:41.065026499Z ==========
+2026-01-31T07:43:41.065067111Z == CUDA ==
+2026-01-31T07:43:41.065105755Z ==========
+2026-01-31T07:43:41.068967414Z CUDA Version 12.1.0
+2026-01-31T07:43:41.070256488Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:43:41.071229012Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:43:41.071231390Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:43:41.071233603Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:43:41.071237695Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:43:41.082388925Z *************************
+2026-01-31T07:43:41.082422854Z ** DEPRECATION NOTICE! **
+2026-01-31T07:43:41.082551523Z *************************
+2026-01-31T07:43:41.082589527Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:43:41.082606807Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:43:41.083558843Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:43:58.153868382Z ==========
+2026-01-31T07:43:58.153873622Z == CUDA ==
+2026-01-31T07:43:58.153959834Z ==========
+2026-01-31T07:43:58.158100269Z CUDA Version 12.1.0
+2026-01-31T07:43:58.160530902Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:43:58.161559476Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:43:58.161561800Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:43:58.161563757Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:43:58.161567434Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:43:58.175202343Z *************************
+2026-01-31T07:43:58.175233607Z ** DEPRECATION NOTICE! **
+2026-01-31T07:43:58.175502497Z *************************
+2026-01-31T07:43:58.175533010Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:43:58.175536907Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:43:58.176563489Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:44:14.909506273Z ==========
+2026-01-31T07:44:14.909514739Z == CUDA ==
+2026-01-31T07:44:14.909520053Z ==========
+2026-01-31T07:44:14.913616969Z CUDA Version 12.1.0
+2026-01-31T07:44:14.914760145Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:44:14.915535534Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:44:14.915537864Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:44:14.915540169Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:44:14.915544349Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:44:14.924953498Z *************************
+2026-01-31T07:44:14.924978298Z ** DEPRECATION NOTICE! **
+2026-01-31T07:44:14.925100138Z *************************
+2026-01-31T07:44:14.925116396Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:44:14.925120110Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:44:14.926062307Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:44:31.624357767Z ==========
+2026-01-31T07:44:31.624360611Z == CUDA ==
+2026-01-31T07:44:31.624388233Z ==========
+2026-01-31T07:44:31.628324755Z CUDA Version 12.1.0
+2026-01-31T07:44:31.629312107Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:44:31.630082780Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:44:31.630088597Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:44:31.630093707Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:44:31.630103779Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:44:31.640860465Z *************************
+2026-01-31T07:44:31.640920090Z ** DEPRECATION NOTICE! **
+2026-01-31T07:44:31.641012700Z *************************
+2026-01-31T07:44:31.641024024Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:44:31.641032065Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:44:31.641966708Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:44:48.410092756Z ==========
+2026-01-31T07:44:48.410096770Z == CUDA ==
+2026-01-31T07:44:48.410131202Z ==========
+2026-01-31T07:44:48.414613600Z CUDA Version 12.1.0
+2026-01-31T07:44:48.416077665Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:44:48.416851608Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:44:48.416856877Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:44:48.416861330Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:44:48.416886497Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:44:48.427009162Z *************************
+2026-01-31T07:44:48.427033635Z ** DEPRECATION NOTICE! **
+2026-01-31T07:44:48.427225232Z *************************
+2026-01-31T07:44:48.427242921Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:44:48.427247667Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:44:48.427932181Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:45:05.278668041Z ==========
+2026-01-31T07:45:05.278675441Z == CUDA ==
+2026-01-31T07:45:05.278734430Z ==========
+2026-01-31T07:45:05.284079543Z CUDA Version 12.1.0
+2026-01-31T07:45:05.285179384Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:45:05.286439596Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:45:05.286444672Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:45:05.286448907Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:45:05.286457094Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:45:05.298081598Z *************************
+2026-01-31T07:45:05.298088858Z ** DEPRECATION NOTICE! **
+2026-01-31T07:45:05.298202713Z *************************
+2026-01-31T07:45:05.298225600Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:45:05.298231517Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:45:05.299631340Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:45:22.040211656Z ==========
+2026-01-31T07:45:22.040218710Z == CUDA ==
+2026-01-31T07:45:22.040241553Z ==========
+2026-01-31T07:45:22.044872301Z CUDA Version 12.1.0
+2026-01-31T07:45:22.046220795Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:45:22.047116144Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:45:22.047119261Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:45:22.047121406Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:45:22.047125418Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:45:22.062286861Z *************************
+2026-01-31T07:45:22.062321673Z ** DEPRECATION NOTICE! **
+2026-01-31T07:45:22.062466771Z *************************
+2026-01-31T07:45:22.062488441Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:45:22.062493414Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:45:22.063613738Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:45:38.823262002Z ==========
+2026-01-31T07:45:38.823269909Z == CUDA ==
+2026-01-31T07:45:38.823290356Z ==========
+2026-01-31T07:45:38.827533294Z CUDA Version 12.1.0
+2026-01-31T07:45:38.828631192Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:45:38.830574197Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:45:38.830588372Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:45:38.830590681Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:45:38.830593884Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:45:38.839659261Z *************************
+2026-01-31T07:45:38.839688238Z ** DEPRECATION NOTICE! **
+2026-01-31T07:45:38.839828411Z *************************
+2026-01-31T07:45:38.839836662Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:45:38.839838763Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:45:38.840854743Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:45:55.550619526Z ==========
+2026-01-31T07:45:55.550622651Z == CUDA ==
+2026-01-31T07:45:55.550670459Z ==========
+2026-01-31T07:45:55.554990836Z CUDA Version 12.1.0
+2026-01-31T07:45:55.557133178Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:45:55.559310820Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:45:55.559318640Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:45:55.559323840Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:45:55.559333753Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:45:55.569556180Z *************************
+2026-01-31T07:45:55.569589678Z ** DEPRECATION NOTICE! **
+2026-01-31T07:45:55.569735506Z *************************
+2026-01-31T07:45:55.569764950Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:45:55.569771350Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:45:55.570737020Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:46:12.328266563Z ==========
+2026-01-31T07:46:12.328280913Z == CUDA ==
+2026-01-31T07:46:12.328330665Z ==========
+2026-01-31T07:46:12.332708818Z CUDA Version 12.1.0
+2026-01-31T07:46:12.334664926Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:46:12.335650716Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:46:12.335653492Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:46:12.335656260Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:46:12.335660479Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:46:12.345799711Z *************************
+2026-01-31T07:46:12.345808134Z ** DEPRECATION NOTICE! **
+2026-01-31T07:46:12.345974232Z *************************
+2026-01-31T07:46:12.346001378Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:46:12.346004672Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:46:12.347007170Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:46:29.108533237Z ==========
+2026-01-31T07:46:29.108553034Z == CUDA ==
+2026-01-31T07:46:29.108617308Z ==========
+2026-01-31T07:46:29.113833214Z CUDA Version 12.1.0
+2026-01-31T07:46:29.115071249Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:46:29.116070447Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:46:29.116073537Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:46:29.116076195Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:46:29.116081975Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:46:29.127374156Z *************************
+2026-01-31T07:46:29.127382978Z ** DEPRECATION NOTICE! **
+2026-01-31T07:46:29.127556100Z *************************
+2026-01-31T07:46:29.127645051Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:46:29.127676834Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:46:29.128805647Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:46:45.845041429Z ==========
+2026-01-31T07:46:45.845044257Z == CUDA ==
+2026-01-31T07:46:45.845080314Z ==========
+2026-01-31T07:46:45.849302701Z CUDA Version 12.1.0
+2026-01-31T07:46:45.851818015Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:46:45.853858808Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:46:45.853861346Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:46:45.853863116Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:46:45.853866318Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:46:45.864884068Z *************************
+2026-01-31T07:46:45.864905853Z ** DEPRECATION NOTICE! **
+2026-01-31T07:46:45.865043274Z *************************
+2026-01-31T07:46:45.865065042Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:46:45.865087214Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:46:45.865833592Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:47:02.692642903Z ==========
+2026-01-31T07:47:02.692655865Z == CUDA ==
+2026-01-31T07:47:02.692662943Z ==========
+2026-01-31T07:47:02.697816726Z CUDA Version 12.1.0
+2026-01-31T07:47:02.700353519Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:47:02.701492398Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:47:02.701498718Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:47:02.701503668Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:47:02.701513059Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:47:02.719251613Z *************************
+2026-01-31T07:47:02.719302801Z ** DEPRECATION NOTICE! **
+2026-01-31T07:47:02.719437383Z *************************
+2026-01-31T07:47:02.719452028Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:47:02.719457375Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:47:02.720764568Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:47:19.472763055Z ==========
+2026-01-31T07:47:19.472776252Z == CUDA ==
+2026-01-31T07:47:19.472781875Z ==========
+2026-01-31T07:47:19.478120020Z CUDA Version 12.1.0
+2026-01-31T07:47:19.479118310Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:47:19.480120652Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:47:19.480123412Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:47:19.480125430Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:47:19.480128822Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:47:19.491446282Z *************************
+2026-01-31T07:47:19.491474397Z ** DEPRECATION NOTICE! **
+2026-01-31T07:47:19.491578647Z *************************
+2026-01-31T07:47:19.491603251Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:47:19.491609948Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:47:19.493148054Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:47:36.241934919Z ==========
+2026-01-31T07:47:36.241939239Z == CUDA ==
+2026-01-31T07:47:36.241945269Z ==========
+2026-01-31T07:47:36.247517400Z CUDA Version 12.1.0
+2026-01-31T07:47:36.248682973Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:47:36.249551697Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:47:36.249557407Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:47:36.249563100Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:47:36.249590844Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:47:36.259895188Z *************************
+2026-01-31T07:47:36.259951523Z ** DEPRECATION NOTICE! **
+2026-01-31T07:47:36.260059950Z *************************
+2026-01-31T07:47:36.260100204Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:47:36.260110297Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:47:36.261286666Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:47:53.067372257Z ==========
+2026-01-31T07:47:53.067383384Z == CUDA ==
+2026-01-31T07:47:53.067390544Z ==========
+2026-01-31T07:47:53.072531476Z CUDA Version 12.1.0
+2026-01-31T07:47:53.075295341Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:47:53.076567791Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:47:53.076584120Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:47:53.076589045Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:47:53.076595376Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:47:53.088336593Z *************************
+2026-01-31T07:47:53.088341431Z ** DEPRECATION NOTICE! **
+2026-01-31T07:47:53.088520050Z *************************
+2026-01-31T07:47:53.088527128Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:47:53.088528897Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:47:53.089940285Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:48:09.869007287Z ==========
+2026-01-31T07:48:09.869027779Z == CUDA ==
+2026-01-31T07:48:09.869032855Z ==========
+2026-01-31T07:48:09.874337523Z CUDA Version 12.1.0
+2026-01-31T07:48:09.876626586Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:48:09.877822957Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:48:09.877826607Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:48:09.877830803Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:48:09.877835952Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:48:09.890344006Z *************************
+2026-01-31T07:48:09.890358724Z ** DEPRECATION NOTICE! **
+2026-01-31T07:48:09.890556810Z *************************
+2026-01-31T07:48:09.890564653Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:48:09.890566777Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:48:09.891879107Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:48:26.666911973Z ==========
+2026-01-31T07:48:26.666915259Z == CUDA ==
+2026-01-31T07:48:26.666917838Z ==========
+2026-01-31T07:48:26.671678520Z CUDA Version 12.1.0
+2026-01-31T07:48:26.672835062Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:48:26.673661801Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:48:26.673665570Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:48:26.673669017Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:48:26.673674581Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:48:26.687148195Z *************************
+2026-01-31T07:48:26.687159162Z ** DEPRECATION NOTICE! **
+2026-01-31T07:48:26.687302936Z *************************
+2026-01-31T07:48:26.687313293Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:48:26.687316134Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:48:26.688383610Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:48:43.410519769Z ==========
+2026-01-31T07:48:43.410523332Z == CUDA ==
+2026-01-31T07:48:43.410649053Z ==========
+2026-01-31T07:48:43.415254768Z CUDA Version 12.1.0
+2026-01-31T07:48:43.416981643Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:48:43.417912926Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:48:43.417919469Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:48:43.417924939Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:48:43.417935303Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:48:43.431937256Z *************************
+2026-01-31T07:48:43.431965280Z ** DEPRECATION NOTICE! **
+2026-01-31T07:48:43.432095348Z *************************
+2026-01-31T07:48:43.432129245Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:48:43.432135311Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:48:43.433088632Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:49:00.140352238Z ==========
+2026-01-31T07:49:00.140380497Z == CUDA ==
+2026-01-31T07:49:00.140382867Z ==========
+2026-01-31T07:49:00.144291268Z CUDA Version 12.1.0
+2026-01-31T07:49:00.145625524Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:49:00.146451549Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:49:00.146453482Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:49:00.146455623Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:49:00.146459204Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:49:00.155030276Z *************************
+2026-01-31T07:49:00.155066518Z ** DEPRECATION NOTICE! **
+2026-01-31T07:49:00.155196556Z *************************
+2026-01-31T07:49:00.155236214Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:49:00.155243993Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:49:00.156039165Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:49:16.931757819Z ==========
+2026-01-31T07:49:16.931760511Z == CUDA ==
+2026-01-31T07:49:16.931762496Z ==========
+2026-01-31T07:49:16.938107437Z CUDA Version 12.1.0
+2026-01-31T07:49:16.939694883Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:49:16.941099856Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:49:16.941102303Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:49:16.941104509Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:49:16.941109898Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:49:16.953338027Z *************************
+2026-01-31T07:49:16.953341951Z ** DEPRECATION NOTICE! **
+2026-01-31T07:49:16.953458351Z *************************
+2026-01-31T07:49:16.953467004Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:49:16.953469601Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:49:16.955497258Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:49:33.716419335Z ==========
+2026-01-31T07:49:33.716451296Z == CUDA ==
+2026-01-31T07:49:33.716487979Z ==========
+2026-01-31T07:49:33.720654601Z CUDA Version 12.1.0
+2026-01-31T07:49:33.721765775Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:49:33.723912536Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:49:33.723914907Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:49:33.723916735Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:49:33.723920278Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:49:33.739087237Z *************************
+2026-01-31T07:49:33.739104519Z ** DEPRECATION NOTICE! **
+2026-01-31T07:49:33.739305975Z *************************
+2026-01-31T07:49:33.739328229Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:49:33.739333889Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:49:33.741042462Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:49:50.410472463Z ==========
+2026-01-31T07:49:50.410479980Z == CUDA ==
+2026-01-31T07:49:50.410610255Z ==========
+2026-01-31T07:49:50.415978856Z CUDA Version 12.1.0
+2026-01-31T07:49:50.417140542Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:49:50.418171419Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:49:50.418177807Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:49:50.418183327Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:49:50.418193539Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:49:50.429441101Z *************************
+2026-01-31T07:49:50.429470590Z ** DEPRECATION NOTICE! **
+2026-01-31T07:49:50.429649403Z *************************
+2026-01-31T07:49:50.429691980Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:49:50.429704884Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:49:50.430727745Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:50:07.179966010Z ==========
+2026-01-31T07:50:07.179998181Z == CUDA ==
+2026-01-31T07:50:07.180023177Z ==========
+2026-01-31T07:50:07.183595910Z CUDA Version 12.1.0
+2026-01-31T07:50:07.184779252Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:50:07.185553593Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:50:07.185559094Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:50:07.185564304Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:50:07.185592332Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:50:07.197092390Z *************************
+2026-01-31T07:50:07.197103850Z ** DEPRECATION NOTICE! **
+2026-01-31T07:50:07.197220985Z *************************
+2026-01-31T07:50:07.197244989Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:50:07.197250312Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:50:07.198439404Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:50:23.987490715Z ==========
+2026-01-31T07:50:23.987492828Z == CUDA ==
+2026-01-31T07:50:23.987528578Z ==========
+2026-01-31T07:50:23.992697312Z CUDA Version 12.1.0
+2026-01-31T07:50:23.993859101Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:50:23.994865300Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:50:23.994867367Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:50:23.994869274Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:50:23.994873010Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:50:24.015068823Z *************************
+2026-01-31T07:50:24.015072685Z ** DEPRECATION NOTICE! **
+2026-01-31T07:50:24.015109515Z *************************
+2026-01-31T07:50:24.015121866Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:50:24.015125183Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:50:24.016403975Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:50:40.711170925Z ==========
+2026-01-31T07:50:40.711172638Z == CUDA ==
+2026-01-31T07:50:40.711173904Z ==========
+2026-01-31T07:50:40.716158922Z CUDA Version 12.1.0
+2026-01-31T07:50:40.717461750Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:50:40.718387527Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:50:40.718390955Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:50:40.718397575Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:50:40.718402664Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:50:40.729987650Z *************************
+2026-01-31T07:50:40.730020224Z ** DEPRECATION NOTICE! **
+2026-01-31T07:50:40.730171244Z *************************
+2026-01-31T07:50:40.730177786Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:50:40.730181284Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:50:40.732172679Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:50:57.451752341Z ==========
+2026-01-31T07:50:57.451778665Z == CUDA ==
+2026-01-31T07:50:57.451868818Z ==========
+2026-01-31T07:50:57.456662130Z CUDA Version 12.1.0
+2026-01-31T07:50:57.457904034Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:50:57.459344692Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:50:57.459349407Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:50:57.459352183Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:50:57.459357353Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:50:57.470722926Z *************************
+2026-01-31T07:50:57.470759353Z ** DEPRECATION NOTICE! **
+2026-01-31T07:50:57.470865200Z *************************
+2026-01-31T07:50:57.470930274Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:50:57.470941898Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:50:57.472017965Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:51:14.284196203Z ==========
+2026-01-31T07:51:14.284202991Z == CUDA ==
+2026-01-31T07:51:14.284207474Z ==========
+2026-01-31T07:51:14.288175838Z CUDA Version 12.1.0
+2026-01-31T07:51:14.289284435Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:51:14.290094629Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:51:14.290097582Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:51:14.290100064Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:51:14.290105453Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:51:14.300347184Z *************************
+2026-01-31T07:51:14.300360872Z ** DEPRECATION NOTICE! **
+2026-01-31T07:51:14.300494943Z *************************
+2026-01-31T07:51:14.300509700Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:51:14.300523884Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:51:14.308061257Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:51:30.982351148Z ==========
+2026-01-31T07:51:30.982353881Z == CUDA ==
+2026-01-31T07:51:30.982358442Z ==========
+2026-01-31T07:51:30.986717903Z CUDA Version 12.1.0
+2026-01-31T07:51:30.989273980Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:51:30.991459326Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:51:30.991462520Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:51:30.991464856Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:51:30.991469778Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:51:31.009154635Z *************************
+2026-01-31T07:51:31.009167787Z ** DEPRECATION NOTICE! **
+2026-01-31T07:51:31.009315917Z *************************
+2026-01-31T07:51:31.009324900Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:51:31.009328733Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:51:31.010880179Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:51:47.789124512Z ==========
+2026-01-31T07:51:47.789132416Z == CUDA ==
+2026-01-31T07:51:47.789209717Z ==========
+2026-01-31T07:51:47.793359768Z CUDA Version 12.1.0
+2026-01-31T07:51:47.794615885Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:51:47.795448209Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:51:47.795450893Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:51:47.795453307Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:51:47.795456641Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:51:47.812191283Z *************************
+2026-01-31T07:51:47.812200819Z ** DEPRECATION NOTICE! **
+2026-01-31T07:51:47.812350184Z *************************
+2026-01-31T07:51:47.812354329Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:51:47.812357669Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:51:47.813316409Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:52:04.649483481Z ==========
+2026-01-31T07:52:04.649490078Z == CUDA ==
+2026-01-31T07:52:04.649525615Z ==========
+2026-01-31T07:52:04.654531249Z CUDA Version 12.1.0
+2026-01-31T07:52:04.656152456Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:52:04.657086575Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:52:04.657092749Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:52:04.657098072Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:52:04.657120366Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:52:04.669711446Z *************************
+2026-01-31T07:52:04.669751784Z ** DEPRECATION NOTICE! **
+2026-01-31T07:52:04.669866264Z *************************
+2026-01-31T07:52:04.669900611Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:52:04.669906813Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:52:04.671236542Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:52:21.416274784Z ==========
+2026-01-31T07:52:21.416335536Z == CUDA ==
+2026-01-31T07:52:21.416361944Z ==========
+2026-01-31T07:52:21.420314870Z CUDA Version 12.1.0
+2026-01-31T07:52:21.421225497Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:52:21.422056882Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:52:21.422059224Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:52:21.422061608Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:52:21.422067081Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:52:21.432711544Z *************************
+2026-01-31T07:52:21.432718466Z ** DEPRECATION NOTICE! **
+2026-01-31T07:52:21.432874814Z *************************
+2026-01-31T07:52:21.432902353Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:52:21.432907110Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:52:21.433940531Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:52:38.138612145Z ==========
+2026-01-31T07:52:38.138623372Z == CUDA ==
+2026-01-31T07:52:38.138650579Z ==========
+2026-01-31T07:52:38.142890282Z CUDA Version 12.1.0
+2026-01-31T07:52:38.143927452Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:52:38.144860209Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:52:38.144875385Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:52:38.144883975Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:52:38.144897022Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:52:38.154605507Z *************************
+2026-01-31T07:52:38.154630757Z ** DEPRECATION NOTICE! **
+2026-01-31T07:52:38.154763116Z *************************
+2026-01-31T07:52:38.154789332Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:52:38.154794943Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:52:38.155856027Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:52:54.892424037Z ==========
+2026-01-31T07:52:54.892454474Z == CUDA ==
+2026-01-31T07:52:54.892461482Z ==========
+2026-01-31T07:52:54.896662496Z CUDA Version 12.1.0
+2026-01-31T07:52:54.897786729Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:52:54.898684858Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:52:54.898691070Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:52:54.898710938Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:52:54.898720297Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:52:54.916003532Z *************************
+2026-01-31T07:52:54.916037878Z ** DEPRECATION NOTICE! **
+2026-01-31T07:52:54.916162934Z *************************
+2026-01-31T07:52:54.916187030Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:52:54.916192664Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:52:54.917359407Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:53:11.594548749Z ==========
+2026-01-31T07:53:11.594583008Z == CUDA ==
+2026-01-31T07:53:11.594639535Z ==========
+2026-01-31T07:53:11.598479580Z CUDA Version 12.1.0
+2026-01-31T07:53:11.599530751Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:53:11.600369797Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:53:11.600371689Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:53:11.600373808Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:53:11.600377151Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:53:11.618665044Z *************************
+2026-01-31T07:53:11.618687029Z ** DEPRECATION NOTICE! **
+2026-01-31T07:53:11.618820060Z *************************
+2026-01-31T07:53:11.618841689Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:53:11.618844743Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:53:11.620312863Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:53:28.416917796Z ==========
+2026-01-31T07:53:28.416929229Z == CUDA ==
+2026-01-31T07:53:28.416935348Z ==========
+2026-01-31T07:53:28.421660728Z CUDA Version 12.1.0
+2026-01-31T07:53:28.422940393Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:53:28.424946541Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:53:28.424957028Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:53:28.424966303Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:53:28.424984780Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:53:28.438383341Z *************************
+2026-01-31T07:53:28.438394537Z ** DEPRECATION NOTICE! **
+2026-01-31T07:53:28.438524374Z *************************
+2026-01-31T07:53:28.438555644Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:53:28.438561394Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:53:28.440375696Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:53:45.177023582Z ==========
+2026-01-31T07:53:45.177041708Z == CUDA ==
+2026-01-31T07:53:45.177144595Z ==========
+2026-01-31T07:53:45.181843031Z CUDA Version 12.1.0
+2026-01-31T07:53:45.183047666Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:53:45.184397271Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:53:45.184406795Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:53:45.184408939Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:53:45.184412780Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:53:45.193501452Z *************************
+2026-01-31T07:53:45.193515624Z ** DEPRECATION NOTICE! **
+2026-01-31T07:53:45.193680550Z *************************
+2026-01-31T07:53:45.193693269Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:53:45.193695302Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:53:45.194517975Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:54:01.993940278Z ==========
+2026-01-31T07:54:01.993942429Z == CUDA ==
+2026-01-31T07:54:01.993973405Z ==========
+2026-01-31T07:54:01.999665697Z CUDA Version 12.1.0
+2026-01-31T07:54:02.009515422Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:54:02.010372165Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:54:02.010376641Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:54:02.010379318Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:54:02.010384741Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:54:02.024834619Z *************************
+2026-01-31T07:54:02.024840383Z ** DEPRECATION NOTICE! **
+2026-01-31T07:54:02.024948998Z *************************
+2026-01-31T07:54:02.024995620Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:54:02.025005280Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:54:02.026405324Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:54:18.755389440Z ==========
+2026-01-31T07:54:18.755418046Z == CUDA ==
+2026-01-31T07:54:18.755454770Z ==========
+2026-01-31T07:54:18.759136551Z CUDA Version 12.1.0
+2026-01-31T07:54:18.761393699Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:54:18.762377090Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:54:18.762379175Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:54:18.762381284Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:54:18.762384774Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:54:18.773861520Z *************************
+2026-01-31T07:54:18.773884572Z ** DEPRECATION NOTICE! **
+2026-01-31T07:54:18.774014342Z *************************
+2026-01-31T07:54:18.774036002Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:54:18.774041847Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:54:18.775661311Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:54:35.596683771Z ==========
+2026-01-31T07:54:35.596688529Z == CUDA ==
+2026-01-31T07:54:35.596691620Z ==========
+2026-01-31T07:54:35.600421676Z CUDA Version 12.1.0
+2026-01-31T07:54:35.608637958Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:54:35.609632671Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:54:35.609634971Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:54:35.609636689Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:54:35.609640435Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:54:35.620580556Z *************************
+2026-01-31T07:54:35.620620754Z ** DEPRECATION NOTICE! **
+2026-01-31T07:54:35.620825787Z *************************
+2026-01-31T07:54:35.620851381Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:54:35.620854102Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:54:35.621954139Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:54:52.447724143Z ==========
+2026-01-31T07:54:52.447733321Z == CUDA ==
+2026-01-31T07:54:52.447771868Z ==========
+2026-01-31T07:54:52.453425876Z CUDA Version 12.1.0
+2026-01-31T07:54:52.454550378Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:54:52.455389814Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:54:52.455394042Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:54:52.455396990Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:54:52.455402111Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:54:52.465705546Z *************************
+2026-01-31T07:54:52.465720873Z ** DEPRECATION NOTICE! **
+2026-01-31T07:54:52.465856707Z *************************
+2026-01-31T07:54:52.465889874Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:54:52.465903559Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:54:52.467136093Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:55:09.247787303Z ==========
+2026-01-31T07:55:09.247821323Z == CUDA ==
+2026-01-31T07:55:09.247849199Z ==========
+2026-01-31T07:55:09.251774242Z CUDA Version 12.1.0
+2026-01-31T07:55:09.252843766Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:55:09.253662062Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:55:09.253664790Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:55:09.253667237Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:55:09.253672212Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:55:09.262457870Z *************************
+2026-01-31T07:55:09.262476643Z ** DEPRECATION NOTICE! **
+2026-01-31T07:55:09.262637235Z *************************
+2026-01-31T07:55:09.262651493Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:55:09.262654914Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:55:09.263382630Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:55:26.079033839Z ==========
+2026-01-31T07:55:26.079046732Z == CUDA ==
+2026-01-31T07:55:26.079052399Z ==========
+2026-01-31T07:55:26.083971848Z CUDA Version 12.1.0
+2026-01-31T07:55:26.085147366Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:55:26.085991001Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:55:26.085992980Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:55:26.085994677Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:55:26.085998064Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:55:26.096940657Z *************************
+2026-01-31T07:55:26.096964524Z ** DEPRECATION NOTICE! **
+2026-01-31T07:55:26.097106759Z *************************
+2026-01-31T07:55:26.097123751Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:55:26.097126369Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:55:26.098064933Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:55:42.786100256Z ==========
+2026-01-31T07:55:42.786146846Z == CUDA ==
+2026-01-31T07:55:42.786152439Z ==========
+2026-01-31T07:55:42.790213514Z CUDA Version 12.1.0
+2026-01-31T07:55:42.791600794Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:55:42.792448364Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:55:42.792452977Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:55:42.792455528Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:55:42.792460590Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:55:42.810591858Z *************************
+2026-01-31T07:55:42.810595089Z ** DEPRECATION NOTICE! **
+2026-01-31T07:55:42.810716306Z *************************
+2026-01-31T07:55:42.810730186Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:55:42.810731735Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:55:42.811995794Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:55:59.459301608Z ==========
+2026-01-31T07:55:59.459324734Z == CUDA ==
+2026-01-31T07:55:59.459425687Z ==========
+2026-01-31T07:55:59.464415208Z CUDA Version 12.1.0
+2026-01-31T07:55:59.466279463Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:55:59.467283182Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:55:59.467285457Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:55:59.467287915Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:55:59.467291046Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:55:59.478332706Z *************************
+2026-01-31T07:55:59.478357436Z ** DEPRECATION NOTICE! **
+2026-01-31T07:55:59.478613403Z *************************
+2026-01-31T07:55:59.478630324Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:55:59.478632709Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:55:59.480792286Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:56:16.188717010Z ==========
+2026-01-31T07:56:16.188724233Z == CUDA ==
+2026-01-31T07:56:16.188729780Z ==========
+2026-01-31T07:56:16.193641607Z CUDA Version 12.1.0
+2026-01-31T07:56:16.194831679Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:56:16.195945047Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:56:16.195948468Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:56:16.195951120Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:56:16.195957354Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:56:16.214998139Z *************************
+2026-01-31T07:56:16.215013194Z ** DEPRECATION NOTICE! **
+2026-01-31T07:56:16.215165342Z *************************
+2026-01-31T07:56:16.215191005Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:56:16.215194556Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:56:16.216365128Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:56:32.886847596Z ==========
+2026-01-31T07:56:32.886862422Z == CUDA ==
+2026-01-31T07:56:32.886877916Z ==========
+2026-01-31T07:56:32.891308793Z CUDA Version 12.1.0
+2026-01-31T07:56:32.892418766Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:56:32.893905013Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:56:32.893908257Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:56:32.893910988Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:56:32.893915585Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:56:32.914024881Z *************************
+2026-01-31T07:56:32.914032596Z ** DEPRECATION NOTICE! **
+2026-01-31T07:56:32.914171478Z *************************
+2026-01-31T07:56:32.914185587Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:56:32.914188109Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:56:32.916275811Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:56:49.730039709Z ==========
+2026-01-31T07:56:49.730051836Z == CUDA ==
+2026-01-31T07:56:49.730057042Z ==========
+2026-01-31T07:56:49.733958914Z CUDA Version 12.1.0
+2026-01-31T07:56:49.735026209Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:56:49.735798019Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:56:49.735801537Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:56:49.735804986Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:56:49.735811222Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:56:49.745615924Z *************************
+2026-01-31T07:56:49.745641171Z ** DEPRECATION NOTICE! **
+2026-01-31T07:56:49.745779564Z *************************
+2026-01-31T07:56:49.745789118Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:56:49.745792073Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:56:49.746853280Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:57:06.453565525Z ==========
+2026-01-31T07:57:06.453579811Z == CUDA ==
+2026-01-31T07:57:06.453640735Z ==========
+2026-01-31T07:57:06.457611046Z CUDA Version 12.1.0
+2026-01-31T07:57:06.458743849Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:57:06.459733581Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:57:06.459738211Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:57:06.459740745Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:57:06.459746453Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:57:06.469220109Z *************************
+2026-01-31T07:57:06.469230577Z ** DEPRECATION NOTICE! **
+2026-01-31T07:57:06.469372461Z *************************
+2026-01-31T07:57:06.469425410Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:57:06.469437585Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:57:06.470597516Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:57:23.220515282Z ==========
+2026-01-31T07:57:23.220520659Z == CUDA ==
+2026-01-31T07:57:23.220582647Z ==========
+2026-01-31T07:57:23.224956173Z CUDA Version 12.1.0
+2026-01-31T07:57:23.226153620Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:57:23.227141673Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:57:23.227149003Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:57:23.227154939Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:57:23.227168812Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:57:23.236036027Z *************************
+2026-01-31T07:57:23.236062632Z ** DEPRECATION NOTICE! **
+2026-01-31T07:57:23.236201826Z *************************
+2026-01-31T07:57:23.236231058Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:57:23.236237025Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:57:23.237328937Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:57:39.977307438Z ==========
+2026-01-31T07:57:39.977332632Z == CUDA ==
+2026-01-31T07:57:39.977346709Z ==========
+2026-01-31T07:57:39.982150019Z CUDA Version 12.1.0
+2026-01-31T07:57:39.983286041Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:57:39.984226752Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:57:39.984230535Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:57:39.984233632Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:57:39.984240530Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:57:39.997884863Z *************************
+2026-01-31T07:57:39.997902809Z ** DEPRECATION NOTICE! **
+2026-01-31T07:57:39.998215063Z *************************
+2026-01-31T07:57:39.998255285Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:57:39.998273948Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:57:39.999339673Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:57:56.761503936Z ==========
+2026-01-31T07:57:56.761512002Z == CUDA ==
+2026-01-31T07:57:56.761516942Z ==========
+2026-01-31T07:57:56.765549390Z CUDA Version 12.1.0
+2026-01-31T07:57:56.766635506Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:57:56.767371457Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:57:56.767373420Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:57:56.767375939Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:57:56.767379507Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:57:56.777991179Z *************************
+2026-01-31T07:57:56.778016552Z ** DEPRECATION NOTICE! **
+2026-01-31T07:57:56.778153531Z *************************
+2026-01-31T07:57:56.778171314Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:57:56.778176558Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:57:56.779155049Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:58:13.538715024Z ==========
+2026-01-31T07:58:13.538745370Z == CUDA ==
+2026-01-31T07:58:13.538773348Z ==========
+2026-01-31T07:58:13.544226926Z CUDA Version 12.1.0
+2026-01-31T07:58:13.545481443Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:58:13.546336907Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:58:13.546339876Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:58:13.546341636Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:58:13.546344886Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:58:13.558617957Z *************************
+2026-01-31T07:58:13.558636957Z ** DEPRECATION NOTICE! **
+2026-01-31T07:58:13.558773675Z *************************
+2026-01-31T07:58:13.558802094Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:58:13.558805543Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:58:13.560107200Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:58:30.318630951Z ==========
+2026-01-31T07:58:30.318638315Z == CUDA ==
+2026-01-31T07:58:30.318642791Z ==========
+2026-01-31T07:58:30.323398369Z CUDA Version 12.1.0
+2026-01-31T07:58:30.324511269Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:58:30.325309385Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:58:30.325311586Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:58:30.325313261Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:58:30.325316330Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:58:30.335125062Z *************************
+2026-01-31T07:58:30.335151239Z ** DEPRECATION NOTICE! **
+2026-01-31T07:58:30.335316863Z *************************
+2026-01-31T07:58:30.335331097Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:58:30.335336806Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:58:30.336310330Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:58:47.098039977Z ==========
+2026-01-31T07:58:47.098063254Z == CUDA ==
+2026-01-31T07:58:47.098100684Z ==========
+2026-01-31T07:58:47.111277998Z CUDA Version 12.1.0
+2026-01-31T07:58:47.115400577Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:58:47.117225923Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:58:47.117232380Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:58:47.117237834Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:58:47.117247880Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:58:47.127699528Z *************************
+2026-01-31T07:58:47.127743380Z ** DEPRECATION NOTICE! **
+2026-01-31T07:58:47.127861077Z *************************
+2026-01-31T07:58:47.127882377Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:58:47.127886997Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:58:47.128950927Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:59:03.875109132Z ==========
+2026-01-31T07:59:03.875111710Z == CUDA ==
+2026-01-31T07:59:03.875120904Z ==========
+2026-01-31T07:59:03.879890610Z CUDA Version 12.1.0
+2026-01-31T07:59:03.880973621Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:59:03.881949318Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:59:03.881951603Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:59:03.881954249Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:59:03.881958022Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:59:03.891921209Z *************************
+2026-01-31T07:59:03.891925588Z ** DEPRECATION NOTICE! **
+2026-01-31T07:59:03.892088291Z *************************
+2026-01-31T07:59:03.892169459Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:59:03.892191729Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:59:03.893133753Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:59:20.692436253Z ==========
+2026-01-31T07:59:20.692438956Z == CUDA ==
+2026-01-31T07:59:20.692443394Z ==========
+2026-01-31T07:59:20.697022694Z CUDA Version 12.1.0
+2026-01-31T07:59:20.698264013Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:59:20.699034473Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:59:20.699036567Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:59:20.699038390Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:59:20.699041905Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:59:20.718087566Z *************************
+2026-01-31T07:59:20.718094126Z ** DEPRECATION NOTICE! **
+2026-01-31T07:59:20.718263325Z *************************
+2026-01-31T07:59:20.718270502Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:59:20.718275968Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:59:20.719490697Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:59:37.363071110Z ==========
+2026-01-31T07:59:37.363114428Z == CUDA ==
+2026-01-31T07:59:37.363126163Z ==========
+2026-01-31T07:59:37.368780034Z CUDA Version 12.1.0
+2026-01-31T07:59:37.370067645Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:59:37.370936830Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:59:37.370939596Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:59:37.370942138Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:59:37.370946918Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:59:37.383903633Z *************************
+2026-01-31T07:59:37.383921563Z ** DEPRECATION NOTICE! **
+2026-01-31T07:59:37.384080259Z *************************
+2026-01-31T07:59:37.384096679Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:59:37.384098972Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:59:37.385676032Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T07:59:54.068160258Z ==========
+2026-01-31T07:59:54.068175030Z == CUDA ==
+2026-01-31T07:59:54.068178634Z ==========
+2026-01-31T07:59:54.072471605Z CUDA Version 12.1.0
+2026-01-31T07:59:54.074530220Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T07:59:54.076134823Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T07:59:54.076137190Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T07:59:54.076139546Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T07:59:54.076142785Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T07:59:54.110109512Z *************************
+2026-01-31T07:59:54.110121956Z ** DEPRECATION NOTICE! **
+2026-01-31T07:59:54.110269222Z *************************
+2026-01-31T07:59:54.110310822Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T07:59:54.110316718Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T07:59:54.111726512Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T08:00:10.810551801Z ==========
+2026-01-31T08:00:10.810557344Z == CUDA ==
+2026-01-31T08:00:10.810646872Z ==========
+2026-01-31T08:00:10.814672625Z CUDA Version 12.1.0
+2026-01-31T08:00:10.816254210Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T08:00:10.817066302Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T08:00:10.817068486Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T08:00:10.817070492Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T08:00:10.817079841Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T08:00:10.829755134Z *************************
+2026-01-31T08:00:10.829774398Z ** DEPRECATION NOTICE! **
+2026-01-31T08:00:10.829909867Z *************************
+2026-01-31T08:00:10.829921637Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T08:00:10.829926070Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T08:00:10.831416744Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T08:00:27.555685484Z ==========
+2026-01-31T08:00:27.555712194Z == CUDA ==
+2026-01-31T08:00:27.555721779Z ==========
+2026-01-31T08:00:27.561606029Z CUDA Version 12.1.0
+2026-01-31T08:00:27.563120609Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T08:00:27.563944531Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T08:00:27.563947369Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T08:00:27.563949756Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T08:00:27.563954276Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T08:00:27.577559078Z *************************
+2026-01-31T08:00:27.577624595Z ** DEPRECATION NOTICE! **
+2026-01-31T08:00:27.577776840Z *************************
+2026-01-31T08:00:27.577789131Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T08:00:27.577794981Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T08:00:27.579310828Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T08:00:44.359857924Z ==========
+2026-01-31T08:00:44.359863996Z == CUDA ==
+2026-01-31T08:00:44.359924257Z ==========
+2026-01-31T08:00:44.364943295Z CUDA Version 12.1.0
+2026-01-31T08:00:44.366066915Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T08:00:44.366968653Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T08:00:44.366971019Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T08:00:44.366972792Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T08:00:44.366976176Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T08:00:44.377658797Z *************************
+2026-01-31T08:00:44.377729192Z ** DEPRECATION NOTICE! **
+2026-01-31T08:00:44.377801233Z *************************
+2026-01-31T08:00:44.377850149Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T08:00:44.377856869Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T08:00:44.379311807Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T08:01:01.093358417Z ==========
+2026-01-31T08:01:01.093393482Z == CUDA ==
+2026-01-31T08:01:01.093428419Z ==========
+2026-01-31T08:01:01.097376629Z CUDA Version 12.1.0
+2026-01-31T08:01:01.098477667Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T08:01:01.099247544Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T08:01:01.099249693Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T08:01:01.099256755Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T08:01:01.099260221Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T08:01:01.117262296Z *************************
+2026-01-31T08:01:01.117290125Z ** DEPRECATION NOTICE! **
+2026-01-31T08:01:01.117449900Z *************************
+2026-01-31T08:01:01.117461193Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T08:01:01.117463132Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T08:01:01.118651324Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T08:01:17.810130275Z ==========
+2026-01-31T08:01:17.810176360Z == CUDA ==
+2026-01-31T08:01:17.810212643Z ==========
+2026-01-31T08:01:17.814300702Z CUDA Version 12.1.0
+2026-01-31T08:01:17.815894633Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T08:01:17.816805709Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T08:01:17.816812643Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T08:01:17.816818052Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T08:01:17.816827926Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T08:01:17.830834886Z *************************
+2026-01-31T08:01:17.830852321Z ** DEPRECATION NOTICE! **
+2026-01-31T08:01:17.830993424Z *************************
+2026-01-31T08:01:17.831011842Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T08:01:17.831014086Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T08:01:17.832077417Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T08:01:34.565727827Z ==========
+2026-01-31T08:01:34.565735111Z == CUDA ==
+2026-01-31T08:01:34.565740191Z ==========
+2026-01-31T08:01:34.570607408Z CUDA Version 12.1.0
+2026-01-31T08:01:34.572839452Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T08:01:34.574449371Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T08:01:34.574455944Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T08:01:34.574461148Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T08:01:34.574471464Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T08:01:34.587082089Z *************************
+2026-01-31T08:01:34.587111899Z ** DEPRECATION NOTICE! **
+2026-01-31T08:01:34.587264674Z *************************
+2026-01-31T08:01:34.587314883Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T08:01:34.587321159Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T08:01:34.588427025Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T08:01:51.245774997Z ==========
+2026-01-31T08:01:51.245780632Z == CUDA ==
+2026-01-31T08:01:51.245823811Z ==========
+2026-01-31T08:01:51.251668317Z CUDA Version 12.1.0
+2026-01-31T08:01:51.253503748Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T08:01:51.254421643Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T08:01:51.254434290Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T08:01:51.254438877Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T08:01:51.254446216Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T08:01:51.264374815Z *************************
+2026-01-31T08:01:51.264392310Z ** DEPRECATION NOTICE! **
+2026-01-31T08:01:51.264553378Z *************************
+2026-01-31T08:01:51.264560110Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T08:01:51.264565607Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T08:01:51.265555820Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T08:02:08.076635483Z ==========
+2026-01-31T08:02:08.076643523Z == CUDA ==
+2026-01-31T08:02:08.076649809Z ==========
+2026-01-31T08:02:08.081920355Z CUDA Version 12.1.0
+2026-01-31T08:02:08.083151025Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T08:02:08.083881406Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T08:02:08.083893501Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T08:02:08.083916774Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T08:02:08.083923157Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T08:02:08.095956411Z *************************
+2026-01-31T08:02:08.095992035Z ** DEPRECATION NOTICE! **
+2026-01-31T08:02:08.096116072Z *************************
+2026-01-31T08:02:08.096148175Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T08:02:08.096154307Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T08:02:08.097614149Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T08:02:24.815878596Z ==========
+2026-01-31T08:02:24.815904590Z == CUDA ==
+2026-01-31T08:02:24.815972322Z ==========
+2026-01-31T08:02:24.820294458Z CUDA Version 12.1.0
+2026-01-31T08:02:24.823059789Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T08:02:24.824687160Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T08:02:24.824689279Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T08:02:24.824691512Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T08:02:24.824695024Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T08:02:24.835563202Z *************************
+2026-01-31T08:02:24.835566786Z ** DEPRECATION NOTICE! **
+2026-01-31T08:02:24.835729795Z *************************
+2026-01-31T08:02:24.835779486Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T08:02:24.835787171Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T08:02:24.836710300Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T08:02:41.556505131Z ==========
+2026-01-31T08:02:41.556537965Z == CUDA ==
+2026-01-31T08:02:41.556581546Z ==========
+2026-01-31T08:02:41.560234487Z CUDA Version 12.1.0
+2026-01-31T08:02:41.561277496Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T08:02:41.562075899Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T08:02:41.562077575Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T08:02:41.562079163Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T08:02:41.562082027Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T08:02:41.571795209Z *************************
+2026-01-31T08:02:41.571808534Z ** DEPRECATION NOTICE! **
+2026-01-31T08:02:41.571959977Z *************************
+2026-01-31T08:02:41.571973408Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T08:02:41.571980547Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T08:02:41.572999330Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T08:02:58.344228754Z ==========
+2026-01-31T08:02:58.344260346Z == CUDA ==
+2026-01-31T08:02:58.344273854Z ==========
+2026-01-31T08:02:58.349448586Z CUDA Version 12.1.0
+2026-01-31T08:02:58.350969455Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T08:02:58.351799794Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T08:02:58.351802675Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T08:02:58.351804335Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T08:02:58.351807749Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T08:02:58.361147801Z *************************
+2026-01-31T08:02:58.361162206Z ** DEPRECATION NOTICE! **
+2026-01-31T08:02:58.361300437Z *************************
+2026-01-31T08:02:58.361315317Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T08:02:58.361317961Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T08:02:58.362412436Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T08:03:15.079933120Z ==========
+2026-01-31T08:03:15.079935355Z == CUDA ==
+2026-01-31T08:03:15.079966125Z ==========
+2026-01-31T08:03:15.085284360Z CUDA Version 12.1.0
+2026-01-31T08:03:15.086433470Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T08:03:15.087773234Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T08:03:15.087775366Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T08:03:15.087777616Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T08:03:15.087780696Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T08:03:15.097605357Z *************************
+2026-01-31T08:03:15.097628482Z ** DEPRECATION NOTICE! **
+2026-01-31T08:03:15.097765181Z *************************
+2026-01-31T08:03:15.097780118Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T08:03:15.097782114Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T08:03:15.098628257Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T08:03:31.713812657Z ==========
+2026-01-31T08:03:31.713832834Z == CUDA ==
+2026-01-31T08:03:31.713887990Z ==========
+2026-01-31T08:03:31.717755595Z CUDA Version 12.1.0
+2026-01-31T08:03:31.718766746Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T08:03:31.719756360Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T08:03:31.719758360Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T08:03:31.719760014Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T08:03:31.719763221Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T08:03:31.728856327Z *************************
+2026-01-31T08:03:31.728878838Z ** DEPRECATION NOTICE! **
+2026-01-31T08:03:31.729000222Z *************************
+2026-01-31T08:03:31.729059863Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T08:03:31.729073107Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T08:03:31.730370023Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T08:03:48.326029311Z ==========
+2026-01-31T08:03:48.326031547Z == CUDA ==
+2026-01-31T08:03:48.326032959Z ==========
+2026-01-31T08:03:48.332766191Z CUDA Version 12.1.0
+2026-01-31T08:03:48.334329542Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T08:03:48.335260537Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T08:03:48.335263190Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T08:03:48.335265591Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T08:03:48.335270330Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T08:03:48.346077930Z *************************
+2026-01-31T08:03:48.346091617Z ** DEPRECATION NOTICE! **
+2026-01-31T08:03:48.346093362Z *************************
+2026-01-31T08:03:48.346094924Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T08:03:48.346097385Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T08:03:48.346836070Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T08:04:04.862694679Z ==========
+2026-01-31T08:04:04.862706613Z == CUDA ==
+2026-01-31T08:04:04.862858080Z ==========
+2026-01-31T08:04:04.866255892Z CUDA Version 12.1.0
+2026-01-31T08:04:04.867186963Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T08:04:04.867854403Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T08:04:04.867856591Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T08:04:04.867857914Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T08:04:04.867860956Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T08:04:04.876715977Z *************************
+2026-01-31T08:04:04.876717829Z ** DEPRECATION NOTICE! **
+2026-01-31T08:04:04.876719207Z *************************
+2026-01-31T08:04:04.876720888Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T08:04:04.876722510Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T08:04:04.877395206Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T08:04:21.356379301Z ==========
+2026-01-31T08:04:21.356383057Z == CUDA ==
+2026-01-31T08:04:21.356384259Z ==========
+2026-01-31T08:04:21.361656008Z CUDA Version 12.1.0
+2026-01-31T08:04:21.362651607Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T08:04:21.363594666Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T08:04:21.363596681Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T08:04:21.363598260Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T08:04:21.363601204Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T08:04:21.371918432Z *************************
+2026-01-31T08:04:21.371934937Z ** DEPRECATION NOTICE! **
+2026-01-31T08:04:21.372355352Z *************************
+2026-01-31T08:04:21.372363496Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T08:04:21.372366421Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T08:04:21.373052404Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T08:04:37.863071381Z ==========
+2026-01-31T08:04:37.863079530Z == CUDA ==
+2026-01-31T08:04:37.863081819Z ==========
+2026-01-31T08:04:37.866668123Z CUDA Version 12.1.0
+2026-01-31T08:04:37.867897543Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T08:04:37.868615673Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T08:04:37.868617844Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T08:04:37.868619432Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T08:04:37.868622339Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T08:04:37.876626833Z *************************
+2026-01-31T08:04:37.876628724Z ** DEPRECATION NOTICE! **
+2026-01-31T08:04:37.876629933Z *************************
+2026-01-31T08:04:37.876631246Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T08:04:37.876632937Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T08:04:37.877414136Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T08:04:54.374981777Z ==========
+2026-01-31T08:04:54.374983534Z == CUDA ==
+2026-01-31T08:04:54.374985124Z ==========
+2026-01-31T08:04:54.377738603Z CUDA Version 12.1.0
+2026-01-31T08:04:54.378650652Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T08:04:54.379382128Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T08:04:54.379383865Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T08:04:54.379385747Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T08:04:54.379388716Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T08:04:54.386534213Z *************************
+2026-01-31T08:04:54.386756182Z ** DEPRECATION NOTICE! **
+2026-01-31T08:04:54.386762402Z *************************
+2026-01-31T08:04:54.386764046Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T08:04:54.386765619Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T08:04:54.390790667Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T08:05:10.910030137Z ==========
+2026-01-31T08:05:10.910038971Z == CUDA ==
+2026-01-31T08:05:10.910040275Z ==========
+2026-01-31T08:05:10.913226655Z CUDA Version 12.1.0
+2026-01-31T08:05:10.914134935Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T08:05:10.914768146Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T08:05:10.914770036Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T08:05:10.914771733Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T08:05:10.914774424Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T08:05:10.923647955Z *************************
+2026-01-31T08:05:10.923670785Z ** DEPRECATION NOTICE! **
+2026-01-31T08:05:10.923925087Z *************************
+2026-01-31T08:05:10.923933442Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T08:05:10.923936901Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T08:05:10.925320841Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T08:05:27.424576537Z ==========
+2026-01-31T08:05:27.424594835Z == CUDA ==
+2026-01-31T08:05:27.424604436Z ==========
+2026-01-31T08:05:27.431150646Z CUDA Version 12.1.0
+2026-01-31T08:05:27.431797046Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T08:05:27.432924356Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T08:05:27.432927645Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T08:05:27.432930164Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T08:05:27.432934661Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T08:05:27.445831330Z *************************
+2026-01-31T08:05:27.445833707Z ** DEPRECATION NOTICE! **
+2026-01-31T08:05:27.445834974Z *************************
+2026-01-31T08:05:27.445836244Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T08:05:27.445838226Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T08:05:27.446782199Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T08:05:43.943242010Z ==========
+2026-01-31T08:05:43.943274391Z == CUDA ==
+2026-01-31T08:05:43.943297753Z ==========
+2026-01-31T08:05:43.947406037Z CUDA Version 12.1.0
+2026-01-31T08:05:43.948565024Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T08:05:43.949271932Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T08:05:43.949273754Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T08:05:43.949275192Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T08:05:43.949277943Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T08:05:43.959259978Z *************************
+2026-01-31T08:05:43.959261869Z ** DEPRECATION NOTICE! **
+2026-01-31T08:05:43.959263212Z *************************
+2026-01-31T08:05:43.959264349Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T08:05:43.959271441Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T08:05:43.960544144Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T08:06:00.463546572Z ==========
+2026-01-31T08:06:00.463550213Z == CUDA ==
+2026-01-31T08:06:00.463551482Z ==========
+2026-01-31T08:06:00.466916390Z CUDA Version 12.1.0
+2026-01-31T08:06:00.467767513Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T08:06:00.468459877Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T08:06:00.468461525Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T08:06:00.468463141Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T08:06:00.468466008Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T08:06:00.475854666Z *************************
+2026-01-31T08:06:00.475865637Z ** DEPRECATION NOTICE! **
+2026-01-31T08:06:00.475867032Z *************************
+2026-01-31T08:06:00.475868217Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T08:06:00.475869757Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T08:06:00.476396238Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T08:06:17.013822613Z ==========
+2026-01-31T08:06:17.013826063Z == CUDA ==
+2026-01-31T08:06:17.013828560Z ==========
+2026-01-31T08:06:17.017254756Z CUDA Version 12.1.0
+2026-01-31T08:06:17.018192295Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T08:06:17.019059851Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T08:06:17.019063128Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T08:06:17.019065307Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T08:06:17.019071165Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T08:06:17.030648389Z *************************
+2026-01-31T08:06:17.030667468Z ** DEPRECATION NOTICE! **
+2026-01-31T08:06:17.030670468Z *************************
+2026-01-31T08:06:17.030673026Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T08:06:17.030675797Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T08:06:17.031106304Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T08:06:33.527913711Z ==========
+2026-01-31T08:06:33.527923021Z == CUDA ==
+2026-01-31T08:06:33.527975598Z ==========
+2026-01-31T08:06:33.531550676Z CUDA Version 12.1.0
+2026-01-31T08:06:33.532518245Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T08:06:33.533253531Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T08:06:33.533255726Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T08:06:33.533257214Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T08:06:33.533260136Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T08:06:33.541469190Z *************************
+2026-01-31T08:06:33.541490350Z ** DEPRECATION NOTICE! **
+2026-01-31T08:06:33.541619907Z *************************
+2026-01-31T08:06:33.541639895Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T08:06:33.541642781Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T08:06:33.542313887Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T08:06:50.113877138Z ==========
+2026-01-31T08:06:50.113898747Z == CUDA ==
+2026-01-31T08:06:50.113958874Z ==========
+2026-01-31T08:06:50.116942231Z CUDA Version 12.1.0
+2026-01-31T08:06:50.117888945Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T08:06:50.118630271Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T08:06:50.118633104Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T08:06:50.118635650Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T08:06:50.118640429Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T08:06:50.128699472Z *************************
+2026-01-31T08:06:50.128713744Z ** DEPRECATION NOTICE! **
+2026-01-31T08:06:50.128977662Z *************************
+2026-01-31T08:06:50.129000754Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T08:06:50.129004472Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T08:06:50.130221070Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T08:07:06.752639951Z ==========
+2026-01-31T08:07:06.752653757Z == CUDA ==
+2026-01-31T08:07:06.752702025Z ==========
+2026-01-31T08:07:06.756403277Z CUDA Version 12.1.0
+2026-01-31T08:07:06.757400280Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T08:07:06.758172044Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T08:07:06.758174423Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T08:07:06.758176032Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T08:07:06.758179451Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T08:07:06.766423404Z *************************
+2026-01-31T08:07:06.766434737Z ** DEPRECATION NOTICE! **
+2026-01-31T08:07:06.766566922Z *************************
+2026-01-31T08:07:06.766583875Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T08:07:06.766590925Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T08:07:06.767258830Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T08:07:23.339891805Z ==========
+2026-01-31T08:07:23.339894582Z == CUDA ==
+2026-01-31T08:07:23.339911485Z ==========
+2026-01-31T08:07:23.343417127Z CUDA Version 12.1.0
+2026-01-31T08:07:23.344553809Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T08:07:23.345245612Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T08:07:23.345248076Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T08:07:23.345250383Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T08:07:23.345254622Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T08:07:23.353989235Z *************************
+2026-01-31T08:07:23.354013041Z ** DEPRECATION NOTICE! **
+2026-01-31T08:07:23.354199377Z *************************
+2026-01-31T08:07:23.354201866Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T08:07:23.354213194Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T08:07:23.355521883Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
+2026-01-31T08:07:39.833805124Z ==========
+2026-01-31T08:07:39.833827894Z == CUDA ==
+2026-01-31T08:07:39.833878953Z ==========
+2026-01-31T08:07:39.837096678Z CUDA Version 12.1.0
+2026-01-31T08:07:39.838860512Z Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+2026-01-31T08:07:39.839824641Z This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+2026-01-31T08:07:39.839826391Z By pulling and using the container, you accept the terms and conditions of this license:
+2026-01-31T08:07:39.839827835Z https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+2026-01-31T08:07:39.839830572Z A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+2026-01-31T08:07:39.847898509Z *************************
+2026-01-31T08:07:39.847914042Z ** DEPRECATION NOTICE! **
+2026-01-31T08:07:39.848030141Z *************************
+2026-01-31T08:07:39.848035409Z THIS IMAGE IS DEPRECATED and is scheduled for DELETION.
+2026-01-31T08:07:39.848036821Z     https://gitlab.com/nvidia/container-images/cuda/blob/master/doc/support-policy.md
+2026-01-31T08:07:39.848892674Z /opt/nvidia/nvidia_entrypoint.sh: line 67: /workspace/start.sh: No such file or directory
