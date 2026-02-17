@@ -33,32 +33,32 @@ RUN apt-get update && apt-get install -y \
 RUN curl -fsSL https://deb.nodesource.com/setup_20.x | bash - && \
     apt-get install -y nodejs
 
-# Upgrade pip
-RUN python3 -m pip install --upgrade pip
+# Upgrade pip (use --break-system-packages flag for Ubuntu 24.04 PEP 668)
+RUN python3 -m pip install --upgrade pip --break-system-packages
 
 # Install PyTorch with CUDA support
-RUN pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+RUN pip install --break-system-packages torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
 
 # Install ComfyUI
 RUN git clone https://github.com/comfyanonymous/ComfyUI.git /workspace/ComfyUI && \
     cd /workspace/ComfyUI && \
-    pip install -r requirements.txt
+    pip install --break-system-packages -r requirements.txt
 
 # Install ComfyUI Manager (optional but recommended)
 RUN cd /workspace/ComfyUI/custom_nodes && \
     git clone https://github.com/ltdrdata/ComfyUI-Manager.git
 
 # Install LTX Video dependencies
-RUN pip install diffusers transformers accelerate sentencepiece protobuf
+RUN pip install --break-system-packages diffusers transformers accelerate sentencepiece protobuf
 
 # Install Jupyter Notebook and extensions
-RUN pip install jupyter jupyterlab notebook ipywidgets jupyterlab-vim
+RUN pip install --break-system-packages jupyter jupyterlab notebook ipywidgets jupyterlab-vim
 
 # Install code-server (VSCode in browser)
 RUN curl -fsSL https://code-server.dev/install.sh | sh
 
 # Install Python development tools
-RUN pip install \
+RUN pip install --break-system-packages \
     numpy \
     pandas \
     matplotlib \
