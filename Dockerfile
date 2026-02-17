@@ -33,8 +33,8 @@ RUN apt-get update && apt-get install -y \
 RUN curl -fsSL https://deb.nodesource.com/setup_20.x | bash - && \
     apt-get install -y nodejs
 
-# Upgrade pip (use --break-system-packages flag for Ubuntu 24.04 PEP 668)
-RUN python3 -m pip install --upgrade pip --break-system-packages
+# Bootstrap/upgrade pip via get-pip.py (more reliable than pip self-upgrade in Docker)
+RUN curl -sS https://bootstrap.pypa.io/get-pip.py | python3 - --break-system-packages
 
 # Install PyTorch with CUDA support
 RUN pip install --break-system-packages torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
