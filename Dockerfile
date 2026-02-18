@@ -93,5 +93,5 @@ RUN printf '%s\n' \
 # 8080 - VSCode (code-server)
 EXPOSE 8188 8888 8080
 
-# Set the startup command (explicit bash so builtins like wait work in exec form)
-CMD ["/bin/bash", "/workspace/start.sh"]
+# Set the startup command (shebang ensures bash is used for builtins like wait)
+CMD ["./workspace/start.sh"]
