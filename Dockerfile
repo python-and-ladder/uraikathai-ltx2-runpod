@@ -75,9 +75,17 @@ RUN mkdir -p /workspace/ComfyUI/models/checkpoints \
     /workspace/notebooks \
     /workspace/vscode-data
 
-# Copy startup script
-COPY start.sh /workspace/start.sh
-RUN chmod +x /workspace/start.sh && sed -i 's/\r$//' /workspace/start.sh
+# Create startup script (embedded so image works even if start.sh is missing from build context)
+RUN printf '%s\n' \
+    '#!/bin/bash' \
+    'echo "Starting ComfyUI..."' \
+    'cd /workspace/ComfyUI && python3 main.py --listen 0.0.0.0 --port 8188 &' \
+    'echo "Starting Jupyter Notebook..."' \
+    'jupyter notebook --ip=0.0.0.0 --port=8888 --no-browser --allow-root --NotebookApp.token="" --NotebookApp.password="" --notebook-dir=/workspace/notebooks &' \
+    'echo "Starting VSCode (code-server)..."' \
+    'code-server --bind-addr 0.0.0.0:8080 --user-data-dir /workspace/vscode-data --auth none /workspace &' \
+    'wait' \
+    > /workspace/start.sh && chmod +x /workspace/start.sh
 
 # Expose ports
 # 8188 - ComfyUI
